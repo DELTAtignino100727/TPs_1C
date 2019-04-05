@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554348242 source:c:\users\delta007\desktop\programacion c\actividades c\ejemplo 3\actividad1.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554434513 source:c:\users\delta007\desktop\programacion c\actividades c\ejemplo 3\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1554348212 c:\users\delta007\desktop\programacion c\actividades c\ejemplo 3\calculadora.h
+
